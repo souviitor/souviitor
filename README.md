@@ -1,6 +1,5 @@
 ## Olá, eu sou o Vitor 🤙🏼
 
-Estou estudando atualmente HTML e CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souviitor&show_icons=true&theme=dark)
